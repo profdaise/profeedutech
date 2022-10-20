@@ -1,0 +1,58 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+    background-image: linear-gradient(brown, orange);
+    margin: 0;
+    padding: 0;
+
+}
+
+.conteudo{
+    display: flex;
+    text-align: center;
+    align-items: cente;
+    background-image: linear-gradient(orange,  rgb(238, 185, 85), white);
+}
+h2{
+    font-size: 40px;
+}
+p {
+    font-size: 30px;
+}
+#criatividade {
+    width: 50%;
+}
+
+.profissionais{
+    display: flex;
+    text-align: right;
+    align-items: center;
+    margin-top: 10px;
+    justify-content: space-around;
+
+}
+#edutech{
+
+     width: 23%;
+     margin: 50px;
+     padding: 0, 60px;
+     
+}
+.professores{
+    display: flex;
+    width: 0%;
+}
+
+.lista{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    
+    }
+
+.lista-item{
+    margin: 0 12px;
+}
+
